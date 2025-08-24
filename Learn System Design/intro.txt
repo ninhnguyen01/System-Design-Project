@@ -1,0 +1,44 @@
+"What is System design?"
+- System Design is the process of creating an architectural plan for a software system or application. It includes characterizing, planning, and creating a system’s structure and functionalities. System design ensures that the system meets specific requirements, such as scalability, performance, and reliability.
+- Designing is the most important element in every development process. Without a design, the process will be like a human body without a backbone. The system design also helps improve the decision-making process. 
+
+"Advantages of System Design"
+- Scalability: Learning system design equips you with the ability to construct systems that can efficiently expand to meet growing demands.
+- Performance Optimization: Learning system design allows you to improve the software system’s performance. Performance optimization is crucial for a seamless user experience.
+- Reliability: System design emphasizes building reliable systems. Doing so can reduce downtime and ensure that your software or hardware systems remain available at all times.
+- Efficient Resource Utilization: System design enables you to allocate resources effectively, whether it’s to memory, processing power, or storage.
+- Reusability: Learning system design will also help you create designs that can be reused. With system design, developers create software and hardware systems that are more modular and versatile.
+- Interview Success: System design questions are now one of the most commonly asked questions during technical interviews. Grokking the system design concepts will increase your chances of securing a position at big tech companies. 
+- Competitive Edge: Grokking the system design concepts will help you gain an edge in the competitive market. It’s an in-demand skill for software engineers, architects, or anyone involved in building complex systems.
+
+"System Development Life Cycle"
+There are several phases of SDLC, including the following: 
+- Planning
+- Analysis
+- Design
+- Development
+- Testing
+- Implementation
+- Testing
+
+"What is System Architecture?"
+System architecture defines the mapping of functionalities onto hardware and software components. 
+It is the high-level structure or blueprint of a software or hardware system. 
+System architecture describes the components or modules of the system, their relationships, and the principles and guidelines governing their design and interaction.
+
+There are 3 main types of system architecture:
+- Integrated System Architecture: Integrated systems tightly combine hardware and software components into a unified platform.
+- Distributed System Architecture: Distributed systems utilize multiple interconnected nodes to process and store data.
+- Pooled Architecture: Pooled architecture aggregates computing resources into a shared pool, optimizing resource utilization and adaptability.
+- Converged Architecture: Converged architecture integrates traditionally separate infrastructure elements like storage, networking, and computing into a unified framework for streamlined operations.
+
+"System Architecture Patterns"
+- Layered Pattern
+- Client-server Pattern
+- Event-driven Pattern
+- Microkernel Pattern
+- Microservices Pattern
+
+Data Flow Diagrams (DFDs) are graphical representations used in system design and analysis to visualize the flow of data within a system, depicting how data moves between various components or processes.
+They provide a structured way to depict how data moves through processes, stores, and external entities within a system. 
+DFDs are fundamental in understanding, documenting, and designing information systems.
